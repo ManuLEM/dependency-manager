@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Team 1",
+        "velocity": 15
+    },
+    {
+        "id": "2",
+        "name": "Team 2",
+        "velocity": 25
+    },
+    {
+        "id": "3",
+        "name": "Team 3",
+        "velocity": 20
+    }
+]

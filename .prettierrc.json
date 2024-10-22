@@ -1,0 +1,19 @@
+{
+    "jsxBracketSameLine": false,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "arrowParens": "avoid",
+    "tabWidth": 4,
+    "printWidth": 100,
+    "endOfLine": "auto",
+    "importOrder": [
+        "^(react/(.*)$)|^(react$)|^(react-native$)",
+        "<THIRD_PARTY_MODULES>",
+        "^@vera-diet",
+        "^(?!.*Style$)(^[./])",
+        "(.+)Style$"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "importOrderParserPlugins": ["typescript", "jsx", "decorators-legacy"]
+}
